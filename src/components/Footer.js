@@ -15,7 +15,7 @@ export default function Footer() {
         <a href="https://www.linkedin.com/in/douglasbyfield/">
           <FontAwesomeIcon icon={faLinkedin} className="footerIcons-L" />
         </a>
-        <a href="paypal.me/thanksu515">
+        <a href="https://paypal.me/thanksu515?country.x=JM&locale.x=en_US">
           <FontAwesomeIcon icon={faCcPaypal} className="footerIcons-P" />
         </a>
       </div>
