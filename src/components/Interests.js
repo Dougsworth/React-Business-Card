@@ -5,12 +5,11 @@ export default function Interests() {
     <div className="interests">
       <h1 className="interestsTitle">Interests</h1>
       <p>
-        In my free time I enjoy playing video games, watching movies, and
+        In my free time I enjoy playing the guitar, watching movies, and
         listening to music. I also enjoy learning new technologies and creating
-        new things. I recently got into 3d printing and I am currently working
-        on a project to create a 3d printed model of a robot. It's so cool to
-        see how a robot can be made. I enjoy using software like fusion 360 and
-        adobe illustrator to create 3d models.
+        new things. I've really been into 3d printing for some time . I enjoy
+        using software like fusion 360 and adobe illustrator to create 3d
+        models. I also enjoy creating websites and applications.
       </p>
     </div>
   );
