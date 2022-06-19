@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+Check out the live demo right here: 
+https://react-business-card-phi.vercel.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
