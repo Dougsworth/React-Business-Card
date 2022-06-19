@@ -5,10 +5,11 @@ export default function About() {
     <div className="about">
       <h1 className="aboutTitle">About</h1>
       <p>
-        Douglas Byfield is a full stack developer with a passion for creating
-        beautiful, responsive websites. He has a background in business and a
-        passion for learning new technologies. Douglas has a background in
-        business and a passion for learning new technologies.
+        In my free time I enjoy playing the guitar, watching movies, and
+        listening to music. I also enjoy learning new technologies and creating
+        new things. I've really been into 3d printing for some time. I enjoy
+        using software like fusion 360 and adobe illustrator to create 3d
+        models. I also enjoy creating websites and applications.
       </p>
     </div>
   );
